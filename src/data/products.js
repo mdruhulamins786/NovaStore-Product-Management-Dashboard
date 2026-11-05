@@ -18,7 +18,7 @@ const templates = [
   { title: "Running Shoes", category: "Fashion", price: 95, stock: 20 },
   { title: "Leather Wallet", category: "Accessories", price: 35, stock: 22 },
   { title: "Travel Backpack", category: "Accessories", price: 59, stock: 16 },
-  { title: "Desk Lamp", category: "Home", price: 39, stock: 28 },git init
+  { title: "Desk Lamp", category: "Home", price: 39, stock: 28 },
 ];
 
 const products = Array.from({ length: 100 }, (_, index) => {
